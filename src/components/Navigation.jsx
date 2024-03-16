@@ -11,6 +11,7 @@ const Navigation = () => {
   return (
     <div
       style={{
+        background: 'white',
         minWidth: '350px',
         maxWidth: '360px',
         height: '64px',
